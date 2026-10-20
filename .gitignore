@@ -1,0 +1,6 @@
+target/
+testdb/
+.idea/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+HELP.md
